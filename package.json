@@ -18,7 +18,10 @@
     ]
   },
   "nyc": {
-    "all": true
+    "all": true,
+    "include": [
+      "src/**/*.js"
+    ]
   },
   "dependencies": {
     "ava": "^2.4.0",
