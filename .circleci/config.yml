@@ -33,4 +33,4 @@ jobs:
 
       - run:
           name: Send coverage report via nyc
-          command: yarn run nyc report --reporter=text-lcov | coveralls
+          command: yarn run coverage:ava
