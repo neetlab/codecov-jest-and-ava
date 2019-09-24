@@ -6,7 +6,7 @@
 ## CLI result 
 ![img](https://i.imgur.com/1aAPf9B.png)
 
-## Hierachy
+## Hierarchy
 ```
 - src
     - aaa.js (a JS code which is tested by Jest)
